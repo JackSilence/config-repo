@@ -1,0 +1,9 @@
+spring:
+  profiles: api1
+server:
+  port: 8763
+---
+spring:
+  profiles: api2
+server:
+  port: 8764
